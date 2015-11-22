@@ -1,0 +1,11 @@
+# Site settings
+title: Chuck Price 
+email: chuck@peloton-tech.com
+description: My blog. Musings related to Peloton Technology, mostly engineering topics.
+baseurl: # the subpath of your site, e.g. /blog/
+url: "http://chuckprice.github.io" # the base hostname & protocol for your site
+twitter_username: chuckprice 
+github_username: chuckprice 
+
+# Build settings
+markdown: kramdown
